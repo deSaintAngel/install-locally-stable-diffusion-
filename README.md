@@ -56,9 +56,9 @@ vous pourrez alors vérifier que dans votre dossier « stable_diffusion » c�
 
 Si vous n’êtes pas a l’aise avec les lignes de commandes via un terminal vous pouvez toujours recharger le zip et décompresser a la main dans le dossier que vous avez sélectionné. Mais pour la suite vous devrez quant même vous rendre dans votre dossier via le terminal. 
 
-    • Étape 4 : Télécharger les poids du modèle. Les « models » sont les poids entraînée du réseaux de neurones que vous allez utiliser qui sont des ficher .ckpt
-
-
+    • Étape 4 : Télécharger les poids du modèle. 
+    
+ Les « models » sont les poids entraînée du réseaux de neurones que vous allez utiliser qui sont des ficher .ckpt
 
 ∆ ! Par souci juridique, stable diffusion a ré entraîné le réseaux a partir de zéro en autant les données issus de licences privé comme par exemple Disney, certains artistes reconnue … Donc le choix du modèle entre la version 1.5 ou 2.0 va dépendre de l’usage que vous prévoyez d’effectuer. La version 2.0 sera moins pertinente en terme de résultat mais vous serez plus protégé en terme de droit que la version 1.5. 
 
