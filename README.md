@@ -34,12 +34,13 @@ Rdv sur : https://git-scm.com/downloads
 ![adresse_cmd](https://user-images.githubusercontent.com/58695529/219095479-e35c11e6-d930-49e8-aeef-1583a4aa3237.png)
 
 
-2. Après avoir créer un dossier que vous pouvez nommer « stable_diffusion », rendez vous à partir de votre terminal dans le dossier. Pour cela tapez la commande : cd suivie de l’adresse de votre dossier :
+2. Après avoir créer un dossier que vous pouvez nommer « stable_diffusion », rendez vous à partir de votre terminal dans le dossier. Pour cela tapez la commande : 
+cd suivie de l’adresse de votre dossier :
 
-cd C:\Users\XXX
+cd C:\Users\XXX\stable_diffusion
 
 vous verrez alors l’adresse de votre terminal complété par l’adresse de votre répertoire 
-PS C:\Users\XXX> PS C:\Users\XXX\stable_diffusion>
+"PS C:\Users\XXX>" devient "PS C:\Users\XXX\stable_diffusion>"
 
 3. Vous allez maintenant cloner le git disponible en ligne dans votre espace local en tapant la commande dans le terminal : 
 git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git 
