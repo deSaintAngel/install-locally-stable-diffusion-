@@ -43,7 +43,8 @@ vous verrez alors l’adresse de votre terminal complété par l’adresse de vo
 "PS C:\Users\XXX>" devient "PS C:\Users\XXX\stable_diffusion>"
 
 3. Vous allez maintenant cloner le git disponible en ligne dans votre espace local en tapant la commande dans le terminal : 
-git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git 
+
+"git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git"
 
 ![adresse_cmd2](https://user-images.githubusercontent.com/58695529/219095639-c5315f70-5ee2-43fd-a9bc-d546e6d88570.png)
 
