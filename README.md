@@ -104,8 +104,8 @@ Vous allez déposer le fichier télécharger : GFPGANv1.4.pth à la racine du d
 
 3. Une fois la modification effectué enregistrer le fichier.
 
+    • Etape 7 : Lancer le programme et l’installation. 
 
-    • Étape 7 : Lancer le programme et l’installation. 
 
 1. retourner dans le terminal et lancer la commande : « .\webui-user.bat » , qui exécutera le script.
 La première exécution prendra un peut de temps car le script installe toutes les dépendances, mais les suivantes seront plus rapides. 
